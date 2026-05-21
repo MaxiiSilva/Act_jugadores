@@ -8,6 +8,6 @@ Funcionalidades:
 
 ❌ Eliminar usuarios
 
-🗑️ Borrar registros
+📝 Editar registros
 
 📋 Mostrar usuarios en una tabla
